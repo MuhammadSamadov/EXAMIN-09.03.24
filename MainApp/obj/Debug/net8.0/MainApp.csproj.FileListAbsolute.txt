@@ -1,0 +1,14 @@
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 4\exam\MainApp\obj\Debug\net8.0\ref\MainApp.dll
